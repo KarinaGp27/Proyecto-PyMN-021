@@ -1,9 +1,9 @@
 # Proyecto-PyMN-021
-##Conjunto de programas elaborados de acuerdo a los diversos temas proporcionados durante el ciclo escolar 2020-2 (Código C).
+## Conjunto de programas elaborados de acuerdo a los diversos temas proporcionados durante el ciclo escolar 2020-2 (Código C).
 ===========================================================================================================================
-###Elaborado por Karina Murillo
+### Elaborado por Karina Murillo
 
-_UNIDAD I:
+__UNIDAD I: 
 
 **Introducción a la programación**
 
@@ -33,7 +33,7 @@ _UNIDAD I:
 
 **p10-->** Derivación numérica
 
-*iUNIDAD V: 
+__UNIDAD V: 
 
 **Solución a los sistemas de ecuaciones lineales**
 
