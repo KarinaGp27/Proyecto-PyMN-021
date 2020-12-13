@@ -2,7 +2,7 @@
 Conjunto de programas elaborados de acuerdo a los diversos temas proporcionados durante el ciclo escolar 2020-2 (Código C).
 ===========================================================================================================================
 
-*iUNIDAD I:
+*UNIDAD I:
 
 **Introducción a la programación**
 
@@ -14,7 +14,7 @@ Conjunto de programas elaborados de acuerdo a los diversos temas proporcionados 
 
 -p4-->Funciones, arreglos y matrices
 
-*iUNIDAD II:
+*UNIDAD II:
 
 **Introducción a métodos numéricos** 
 
@@ -22,11 +22,11 @@ Conjunto de programas elaborados de acuerdo a los diversos temas proporcionados 
 
 -p6-->Métodos abiertos
 
-*iUNIDAD III:
+*UNIDAD III:
 
 **Ajuste de curvas**
 
-*iUNIDAD IV:
+*UNIDAD IV:
 
 **Integración y diferenciación numérica**
 
