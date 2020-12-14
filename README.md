@@ -39,6 +39,8 @@
 
 **p11-->** Métodos de ecuaciones lineales
 
+                        ![picture2](https://user-images.githubusercontent.com/75811477/102039680-6afc6980-3d7f-11eb-986f-68a16cc8ff77.jpg)
+
 
 
 
