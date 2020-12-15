@@ -39,7 +39,7 @@
 
 **p11-->** [Métodos de ecuaciones lineales](https://github.com/KarinaGp27/Proyecto-PyMN-021/commit/5938cafad1edbf19f223a42fc164d1f11683a51a)
 
-![picture2](https://user-images.githubusercontent.com/75811477/102039680-6afc6980-3d7f-11eb-986f-68a16cc8ff77.jpg)
+![gif1](https://user-images.githubusercontent.com/75811477/102272182-38fd1b80-3ed5-11eb-9ae8-93d8a903e33e.gif)
 
 
 
